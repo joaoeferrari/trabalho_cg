@@ -15,7 +15,7 @@ A navegação e interação do personagem são feitas através de um sistema de 
 | **W, S** | Mover para Frente/Trás | Translaciona o personagem no eixo Z. |
 | **A, D** | Virar para Esquerda/Direita | Rotaciona o personagem no eixo Y. |
 | **B** | **Animação de Dança** | **Toggle (Liga/Desliga):** Ativa a animação de dança. Se o personagem andar, a dança é interrompida. |
-| **C** | **Chamar Metrô** / **Freio de mão** | **Teletransporte de Aproximação:** Encontra o trem mais próximo na linha do jogador, teletransporta-o para 30m de distância e o faz frear suavemente na frente do personagem. |
+| **C** | **Chamar Metrô** / **Freio de mão** | **Teletransporte de Aproximação:** Encontra o metrô mais próximo na linha do jogador, teletransporta-o para 30m de distância e o faz frear suavemente na frente do personagem / Faz o metrô andar/parar |
 | **E** | **Embarcar / Desembarcar** | Permite ao personagem "surfar" no teto do vagão do metrô para viajar entre as estações. (Necessário estar próximo e o trem estar parado ou lento). |
 
 ---
